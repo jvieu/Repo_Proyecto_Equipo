@@ -29,7 +29,7 @@ Sin embargo, la mayoría de estos análisis se centran en ejemplos particulares 
 
 ### ¿Qué datos se necesitan?
 
-- Rankings globales (Spotify Global Top 50 / Top 200)
+- Rankings globales (Spotify Global Top 50 / Billboard Hot 100)
 - Posición diaria o semanal de canciones
 - Fechas de ingreso y salida de charts
 - Posición máxima alcanzada
