@@ -1,0 +1,97 @@
+# Relación entre la viralización en TikTok y el rendimiento en charts musicales globales en 2024
+
+## Síntesis del proyecto
+
+En los últimos años, la industria musical ha experimentado una transformación significativa impulsada por el crecimiento de las plataformas digitales y redes sociales. Entre ellas, TikTok se ha consolidade como un actor clave en la difusión de contenido musical, permitiendo que fragmentos de canciones se viralicen rápidamente y alcancen audiencias masivas a nivel global.
+
+Este fenómeno ha generado cambios visibles en los patrones de consumo musical. Canciones de artistas emergentes, temas antiguos o incluso lanzamientos recientes pueden posicionarse rápidamente en rankings internacionales como Spotify Global Top 50 o Billboard Hot 100 tras volverse virales en la plataforma. Este comportamiento sugiere una posible relación entre la viralización en redes sociales y el éxito en los charts musicales.
+
+Diversos reportes de la industria y artículos periodísticos han documentado este fenómeno, destacando casos en los que TikTok ha impulsado significativamente la popularidad de ciertas canciones. Sin embargo, estos análisis suelen centrarse en ejemplos aislados o descripciones generales, sin profundizar en un análisis sistemático basado en datos comparables en el tiempo.
+
+En este contexto, el presente proyecto busca analizar, durante el año 2024, el comportamiento de canciones que han sido identificadas como virales en TikTok y su desempeño en los charts globales. A partir de un enfoque cuantitativo, se pretende identificar patrones en variables como velocidad de ascenso, posición máxima alcanzada y permanencia en rankings, contribuyendo a una comprensión más precisa del impacto de las redes sociales en la industria musical.
+
+## Pregunta de investigación
+
+¿Existe una relación entre la viralización de canciones en TikTok y su rendimiento en charts musicales globales durante el año 2024?
+
+## Antecedentes del tema
+
+Diversos artículos y reportes de la industria musical han destacado el impacto en el éxito de canciones a nivel global. Medios especializados han documentado casos en los que temas musicales alcanzan popularidad tras vincularse en la plataforma, lo que posteriormente se refleja en un aumento de reproducciones en servicios de streaming.
+
+Asimismo, plataformas como Spotify han desarrollado rankings específicos como "Viral 50", lo que evidencia la relevancia del fenómeno dentro del ecosistema musical digital. Billboard también ha incorporado métricas de streaming y redes sociales en sus metodologías. Sin embargo, la mayoría de estos análisis se centran en ejemplos particulares o tendencias generales, sin profundizar en una comparación sistemática entre canciones virales y su comportamiento en rankings globales. Esto abre un espacio para una investigación basada en datos que permita identificar patrones consistentes.
+
+## Datos
+
+### ¿Qué datos se necesitan?
+
+* Rankings globales: Spotify Global Top 50 / Top 200
+* Posición diaria o semanal de canciones
+* Fechas de ingreso y salida de los charts
+* Posición máxima alcanzada
+* Listado de canciones virales en TikTok durante 2024
+* Fecha aproximada de viralización
+
+### ¿Qué datos se tienen?
+
+* Listas de Spotify
+* Rankings globales actualizados
+* Listas de reproducción virales (Spotify Viral 50)
+* Recopilaciones de tendencias en TikTok (fuentes secundarias)
+
+### ¿Qué datos faltan y cómo se van a obtener?
+
+Identificación sistemática de canciones virales en TikTok
+
+Se construirá una base de datos propia mediante:
+
+* Revisión de playlist virales
+* Recopilación de tendencias documentadas
+* Análisis manual de contenido en TikTok
+
+### ¿Qué datos no existen?
+
+* Métricas internas de TikTok (visualizaciones exactas, algoritmo)
+
+### ¿Qué datos son públicos?
+
+* Spotify Charts
+* Rankings Billboard (parcialmente)
+* Playlist virales
+
+### ¿Qué datos son confiables?
+
+* Spotify Charts (fuente oficial)
+* Billboard (referente internacional)
+* Datos recopilados manualmente (con limitaciones metodológicas explícitas)
+
+## Preguntas a responder
+
+* ¿Las canciones virales en TikTok presentan un ascenso más rápido en los charts globales?
+* ¿Alcanzan posiciones más altas que canciones no virales?
+* ¿Tienen mayor permanencia en rankings?
+* ¿Existe un patrón temporal entre la viralización y su ingreso a los charts?
+
+## Historia visual
+
+El proyecto busca evidenciar el comportamiento diferencial de canciones virales en comparación con otras dentro de los rankings globales. La narrativa se centrará en mostrar cómo ciertas canciones experimentan aumentos acelerados en popularidad tras su circulación en redes sociales.
+
+Se utilizarán visualizaciones como:
+
+* Gráficos de evolución de posiciones en rankings
+* Comparaciones entre canciones virales y no virales
+* Líneas de tiempo entre viralización y entrada a charts
+
+Estas herramientas permitirán representar de manera clara patrones y tendencias en los datos.
+
+## Resultados
+
+### Mínimo esperado
+
+* Identificación de casos donde canciones virales coinciden con aumentos en rankings
+* Visualización descriptiva de su evolución en charts
+
+### Máximo esperado
+
+* Identificación de patrones consistentes entre viralización y rendimiento
+* Comparación cuantitativa entre canciones virales y no virales
+* Conclusiones sobre el impacto de TikTok en la dinámica de los charts globales
