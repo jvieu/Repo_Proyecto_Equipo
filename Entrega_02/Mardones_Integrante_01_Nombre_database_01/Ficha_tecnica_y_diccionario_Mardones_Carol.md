@@ -33,3 +33,15 @@ Se trata de datos comparables entre países, consistentes en su formato y adecua
 Se trabajó con el Top 50 de cada país para enfocarse en las canciones de mayor relevancia en cada mercado, lo que facilita identificar coincidencias significativas sin incorporar ruido de posiciones menos representativas.
 
 También se priorizó la consistencia en la estructura de los datos y en la estandarización de los nombres de artistas, con el objetivo de asegurar la calidad del análisis posterior.
+
+## Diccionario de datos
+
+| variable | descripción | tipo de dato | valores posibles | observaciones |
+|--------|-------------|-------------|-----------------|--------------|
+| pais | país del chart analizado | texto | Chile, Argentina, Mexico, Colombia | nombres estandarizados |
+| fecha | fecha del ranking | fecha | YYYY-MM-DD | misma fecha para todos los países |
+| ranking | posición de la canción en el chart | numérico entero | 1 a 50 | variable ordinal |
+| cancion | nombre de la canción | texto | texto libre | corresponde al nombre oficial en Spotify |
+| artista | nombre del artista según fuente original | texto | texto libre | puede incluir múltiples artistas |
+| artista_normalizado | nombre del artista principal estandarizado | texto | texto libre | se usa para análisis comparativo |
+| fuente | origen de los datos | texto | Spotify Charts | permite trazabilidad de la información |
