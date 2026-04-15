@@ -4,7 +4,6 @@
 
 Los charts de Spotify en Latinoamérica reflejan una red de circulación musical interconectada, en la que ciertos países concentran mayor influencia, mientras otros, como Chile, destacan por su alto nivel de consumo y por su cercanía con tendencias regionales, especialmente en música urbana.
 
----
 
 ## Preguntas de investigación actuales
 
@@ -14,7 +13,6 @@ Qué mercados comparten más artistas entre sí
 Qué rol ocupa Chile dentro de esta red de circulación musical  
 Qué artistas logran presencia en múltiples países de la región  
 
----
 
 ## Avance del proyecto en relación con la hipótesis y preguntas de investigación
 
@@ -26,7 +24,6 @@ A medida que se revisaron los datos, se observó que los charts no solo reflejan
 
 De este modo, el proyecto pasó de enfocarse en la viralidad a centrarse en una mirada más estructural del consumo musical, analizando cómo se conectan los mercados latinoamericanos y qué rol ocupa Chile dentro de esta dinámica.
 
----
 
 ## Síntesis de la historia
 
