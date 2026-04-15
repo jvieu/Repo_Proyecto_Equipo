@@ -8,9 +8,13 @@ Los charts de Spotify en Latinoamérica reflejan una red de circulación musical
 ## Preguntas de investigación actuales
 
 ¿Qué artistas aparecen simultáneamente en los charts de distintos países de Latinoamérica?
+
 ¿Qué países presentan mayor coincidencia en sus rankings musicales?
+
 ¿Qué mercados comparten más artistas entre sí?
+
 ¿Qué rol ocupa Chile dentro de esta red de circulación musical?
+
 ¿Qué artistas logran presencia en múltiples países de la región?
 
 
