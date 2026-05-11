@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <style>
+    #vis.vega-embed {
+      width: 100%;
+      display: flex;
+    }
+
+    #vis.vega-embed details,
+    #vis.vega-embed details summary {
+      position: relative;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-lite@5.20.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 300, "continuousHeight": 300}}, "data": {"name": "data-9555899aedb0007db236a3e2b3722459"}, "mark": {"type": "circle"}, "encoding": {"color": {"field": "apariciones", "title": "Apariciones", "type": "quantitative"}, "size": {"field": "apariciones", "scale": {"range": [80, 900]}, "title": "Apariciones", "type": "quantitative"}, "tooltip": [{"field": "artista", "title": "Artista", "type": "nominal"}, {"field": "pais", "title": "Pa\u00eds", "type": "nominal"}, {"field": "apariciones", "title": "Apariciones", "type": "quantitative"}, {"field": "meses_presente", "title": "Meses presente", "type": "quantitative"}, {"field": "streams_total", "format": ",", "title": "Streams acumulados", "type": "quantitative"}], "x": {"field": "pais", "title": "Pa\u00eds", "type": "nominal"}, "y": {"field": "artista", "sort": {"field": "apariciones", "op": "sum", "order": "descending"}, "title": "Artista", "type": "nominal"}}, "height": 450, "title": "Los artistas que cruzan fronteras en los charts latinoamericanos", "width": 650, "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json", "datasets": {"data-9555899aedb0007db236a3e2b3722459": [{"artista": "Anuel AA", "pais": "Argentina", "apariciones": 9, "meses_presente": 6, "streams_total": 9248166}, {"artista": "Anuel AA", "pais": "Chile", "apariciones": 9, "meses_presente": 6, "streams_total": 7662216}, {"artista": "Anuel AA", "pais": "Colombia", "apariciones": 13, "meses_presente": 6, "streams_total": 10926729}, {"artista": "Anuel AA", "pais": "Mexico", "apariciones": 4, "meses_presente": 4, "streams_total": 24141665}, {"artista": "Bad Bunny", "pais": "Argentina", "apariciones": 44, "meses_presente": 6, "streams_total": 37449377}, {"artista": "Bad Bunny", "pais": "Chile", "apariciones": 43, "meses_presente": 6, "streams_total": 27839598}, {"artista": "Bad Bunny", "pais": "Colombia", "apariciones": 29, "meses_presente": 6, "streams_total": 21496360}, {"artista": "Bad Bunny", "pais": "Mexico", "apariciones": 20, "meses_presente": 6, "streams_total": 73744233}, {"artista": "Be\u00e9le", "pais": "Argentina", "apariciones": 24, "meses_presente": 6, "streams_total": 24010839}, {"artista": "Be\u00e9le", "pais": "Chile", "apariciones": 22, "meses_presente": 6, "streams_total": 14657384}, {"artista": "Be\u00e9le", "pais": "Colombia", "apariciones": 51, "meses_presente": 6, "streams_total": 48976964}, {"artista": "Blessd", "pais": "Argentina", "apariciones": 5, "meses_presente": 5, "streams_total": 4182662}, {"artista": "Blessd", "pais": "Chile", "apariciones": 5, "meses_presente": 5, "streams_total": 3923390}, {"artista": "Blessd", "pais": "Colombia", "apariciones": 61, "meses_presente": 6, "streams_total": 54456490}, {"artista": "El Bogueto", "pais": "Argentina", "apariciones": 10, "meses_presente": 6, "streams_total": 14199394}, {"artista": "El Bogueto", "pais": "Chile", "apariciones": 9, "meses_presente": 5, "streams_total": 8186401}, {"artista": "El Bogueto", "pais": "Colombia", "apariciones": 8, "meses_presente": 5, "streams_total": 5173351}, {"artista": "El Bogueto", "pais": "Mexico", "apariciones": 10, "meses_presente": 6, "streams_total": 64435823}, {"artista": "Fuerza Regida", "pais": "Argentina", "apariciones": 4, "meses_presente": 4, "streams_total": 5065504}, {"artista": "Fuerza Regida", "pais": "Chile", "apariciones": 7, "meses_presente": 4, "streams_total": 5343451}, {"artista": "Fuerza Regida", "pais": "Colombia", "apariciones": 14, "meses_presente": 6, "streams_total": 12964322}, {"artista": "Fuerza Regida", "pais": "Mexico", "apariciones": 56, "meses_presente": 6, "streams_total": 259249830}, {"artista": "Jere Klein", "pais": "Argentina", "apariciones": 5, "meses_presente": 5, "streams_total": 4682454}, {"artista": "Jere Klein", "pais": "Chile", "apariciones": 35, "meses_presente": 6, "streams_total": 26092034}, {"artista": "Junior H", "pais": "Mexico", "apariciones": 37, "meses_presente": 6, "streams_total": 137895311}, {"artista": "Kris R.", "pais": "Argentina", "apariciones": 5, "meses_presente": 5, "streams_total": 4182662}, {"artista": "Kris R.", "pais": "Chile", "apariciones": 5, "meses_presente": 5, "streams_total": 3923390}, {"artista": "Kris R.", "pais": "Colombia", "apariciones": 27, "meses_presente": 6, "streams_total": 25926635}, {"artista": "Ovy On The Drums", "pais": "Argentina", "apariciones": 17, "meses_presente": 6, "streams_total": 17118923}, {"artista": "Ovy On The Drums", "pais": "Chile", "apariciones": 23, "meses_presente": 6, "streams_total": 14686683}, {"artista": "Ovy On The Drums", "pais": "Colombia", "apariciones": 40, "meses_presente": 6, "streams_total": 40392710}, {"artista": "Peso Pluma", "pais": "Mexico", "apariciones": 49, "meses_presente": 6, "streams_total": 269775448}, {"artista": "Ryan Castro", "pais": "Argentina", "apariciones": 4, "meses_presente": 4, "streams_total": 6571715}, {"artista": "Ryan Castro", "pais": "Chile", "apariciones": 3, "meses_presente": 3, "streams_total": 1917807}, {"artista": "Ryan Castro", "pais": "Colombia", "apariciones": 29, "meses_presente": 6, "streams_total": 27987143}, {"artista": "Tito Double P", "pais": "Mexico", "apariciones": 52, "meses_presente": 6, "streams_total": 283595539}, {"artista": "Victor Mendivil", "pais": "Mexico", "apariciones": 31, "meses_presente": 6, "streams_total": 142492883}, {"artista": "Yung Beef", "pais": "Argentina", "apariciones": 10, "meses_presente": 6, "streams_total": 14199394}, {"artista": "Yung Beef", "pais": "Chile", "apariciones": 9, "meses_presente": 5, "streams_total": 8186401}, {"artista": "Yung Beef", "pais": "Colombia", "apariciones": 8, "meses_presente": 5, "streams_total": 5173351}, {"artista": "Yung Beef", "pais": "Mexico", "apariciones": 10, "meses_presente": 6, "streams_total": 64435823}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
