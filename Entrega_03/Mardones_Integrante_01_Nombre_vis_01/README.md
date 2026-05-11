@@ -82,4 +82,3 @@ A partir del procesamiento realizado, se generaron los siguientes archivos:
 - **scripts/codigo_para_visualizar_1.ipynb**
 
 Estos archivos permiten revisar tanto el resultado final como el proceso utilizado para construirlo.
-Estos archivos permiten revisar tanto el resultado final como el proceso utilizado para construirlo.
