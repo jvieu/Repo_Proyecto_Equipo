@@ -12,7 +12,7 @@ La webstory propone analizar cómo circula la música en Latinoamérica a partir
 
 El tablero de Miro utilizado para desarrollar los perfiles de persona, el mapa de viaje del usuario y el wireframe/prototipo de la webstory se encuentra disponible en el siguiente enlace:
 
-[Ver tablero de Miro](PEGAR_LINK_A_MIRO_AQUÍ)
+https://miro.com/app/board/uXjVHJTSU38=/
 
 ## Propuesta narrativa de la webstory
 
