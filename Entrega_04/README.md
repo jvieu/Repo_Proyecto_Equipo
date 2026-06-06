@@ -50,38 +50,34 @@ El viaje culmina con una sección dedicada al rol de Chile y un cierre que resum
 
 ## Wireframe y prototipo
 
+## Wireframe y prototipo
+
 El wireframe fue diseñado como una webstory de lectura vertical, pensada para ser recorrida mediante scroll. La estructura busca guiar al usuario desde una pregunta inicial cercana hacia una lectura más amplia sobre circulación musical en Latinoamérica.
+
+El prototipo se trabajó en baja fidelidad, priorizando la organización narrativa, la ubicación de textos, visualizaciones, botones, recursos gráficos y secciones principales. No busca representar el diseño final de la webstory, sino mostrar el camino de lectura y la relación entre crónica, visualizaciones y elementos visuales.
 
 La estructura propuesta para la webstory es la siguiente:
 
 1. **Portada / inicio**  
-   Presenta el título, la pregunta principal y una bajada introductoria.
+   Presenta el título, la pregunta principal, una bajada introductoria, un fondo musical/digital y un botón de inicio.
 
 2. **Contexto del problema**  
-   Explica qué son los charts de Spotify y por qué permiten observar patrones de escucha regional.
+   Explica que los charts de Spotify pueden leerse como señales de conexión entre países, artistas y tendencias musicales. También presenta la pregunta guía y los países analizados.
 
-3. **Metodología breve**  
-   Resume de forma simple el proceso de construcción de la base: rankings semanales, una semana por mes, seis meses y países analizados.
+3. **Primer acercamiento**  
+   Introduce la idea de que algunos artistas aparecen en más de un país y que los rankings permiten mirar la música como una red, no solo como una lista de canciones.
 
 4. **Visualización principal**  
-   Muestra artistas que aparecen en más de un país y permite observar patrones de presencia regional.
+   Muestra la matriz de artistas por país, acompañada de una explicación breve y una leyenda simple para facilitar la lectura del gráfico.
 
-5. **Lectura guiada de hallazgos**  
-   Destaca interpretaciones clave para ayudar al usuario a comprender los datos.
+5. **Hallazgos + caso Chile**  
+   Presenta hallazgos guiados a partir de los datos y luego destaca el rol de Chile dentro de la circulación musical regional.
 
-6. **Comparación entre países**  
-   Presenta conexiones o diferencias entre mercados musicales latinoamericanos.
+6. **Cierre**  
+   Resume la interpretación principal de la historia: los charts de Spotify pueden funcionar como un mapa cultural para observar cómo circula la música en Latinoamérica.
 
-7. **Caso Chile**  
-   Profundiza en el rol de Chile dentro de la circulación regional de música.
+El wireframe considera el mapa de viaje de Antonia, la oyente curiosa. Por eso, la historia comienza con una pregunta cercana, presenta el contexto antes de los datos, acompaña la visualización con hallazgos claros y destaca el caso de Chile para mantener el interés de la usuaria hasta el cierre.
 
-8. **Redes de colaboración**  
-   Explora cómo las colaboraciones entre artistas también permiten entender la circulación musical.
-
-9. **Cierre**  
-   Resume la historia y refuerza la idea de los charts como mapa cultural.
-
-El wireframe prioriza una experiencia clara, visual y progresiva. Cada sección cumple una función narrativa y busca evitar que la webstory se perciba como una acumulación de gráficos sin contexto.
 
 ## Identidad visual
 
@@ -91,7 +87,7 @@ La identidad visual se basa en una combinación de fondos oscuros, acentos vibra
 
 La paleta de colores propuesta incluye un azul noche como fondo principal, verde asociado al universo de Spotify, morado neón como acento digital, coral como color cálido para destacar hallazgos y blanco humo para asegurar legibilidad.
 
-Las tipografías propuestas combinan una familia sans serif moderna para títulos y bajadas, una fuente legible para cuerpos de texto y una tipografía monoespaciada para datos, etiquetas o elementos metodológicos.
+Las tipografías utilizadas en la propuesta visual son **Bangers** y **EB Garamond**. **Bangers** se usa para títulos, secciones destacadas y elementos de mayor impacto visual, ya que aporta una estética expresiva, juvenil y cercana al lenguaje gráfico de afiches, música y cultura pop. **EB Garamond** se utiliza para bajadas, cuerpos de texto y explicaciones, ya que entrega mayor legibilidad y un tono editorial que equilibra la fuerza visual de los títulos.
 
 La identidad visual busca equilibrar dos dimensiones del proyecto: por un lado, la cultura musical y digital; por otro, la claridad periodística necesaria para comunicar datos de manera comprensible.
 
