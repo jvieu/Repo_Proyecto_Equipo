@@ -47,7 +47,7 @@ Hasta ese punto, la historia plantea una pregunta: **¿Latinoamérica escucha la
 
 El gráfico permite comenzar a responder esa pregunta mostrando que no existe una sola forma de escuchar música en la región. Aunque las plataformas digitales conectan a los países bajo un mismo sistema de rankings, los datos muestran diferencias claras entre los mercados analizados.
 
-Por eso, la visualización no funciona solo como apoyo visual, sino como una pieza central de la historia. Permite pasar de una impresión general —la idea de que todos escuchamos lo mismo— a una lectura más precisa sobre cómo se distribuye la presencia de distintas escenas musicales en cada país.
+Por eso, la visualización no funciona solo como apoyo visual, sino como una pieza central de la historia. Permite pasar de una impresión general, la idea de que todos escuchamos lo mismo,  a una lectura más precisa sobre cómo se distribuye la presencia de distintas escenas musicales en cada país.
 
 ## Decisión del tipo de gráfico
 
