@@ -95,4 +95,4 @@ La hipótesis inicial planteaba que los charts de Spotify podían mostrar una ci
 
 Los datos muestran que la región está conectada por artistas, géneros y tendencias, pero esa conexión no se distribuye igual en todos los países. Algunos mercados mantienen una presencia nacional más fuerte, mientras otros se relacionan más intensamente con escenas externas.
 
-Por eso, la visualización apoya la hipótesis final: **los charts de Spotify en Latinoamérica muestran una circulación musical conectada, pero desigual**.
+Por eso la respuesta a nuestra hipotesis, según los **los charts de Spotify en Latinoamérica muestran que no escuchamos lo mismo, pero que si existe una circulación musical conectada**
