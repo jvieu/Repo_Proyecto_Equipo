@@ -36,7 +36,7 @@ El periodo de análisis corresponde a seis meses de rankings, entre noviembre de
 La webstory está disponible en el siguiente enlace:
 
 ```text id="wb5u51"
-(https://caritoofml.github.io/webstory-spotify-latinoamerica/)
+https://caritoofml.github.io/webstory-spotify-latinoamerica/
 ```
 
 Archivo principal del sitio:
