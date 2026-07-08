@@ -145,7 +145,7 @@ Periodo de análisis:
 
 La webstory final se encuentra publicada en GitHub Pages:
 
-[Ver webstory]([PEGA_AQUÍ_EL_LINK_DE_GITHUB_PAGES](https://caritoofml.github.io/webstory-final/))
+(https://caritoofml.github.io/webstory-final/)
 
 ## Repositorio del proyecto
 
