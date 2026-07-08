@@ -6,8 +6,6 @@ La webstory **¿Escuchamos lo mismo en Latinoamérica?** fue diseñada como un r
 
 El objetivo del diseño no fue solo presentar datos, sino guiar al usuario hacia una revelación: aunque Latinoamérica comparte artistas, canciones y tendencias, cada país mantiene una forma particular de construir su propia banda sonora.
 
----
-
 ## Estructura narrativa
 
 La historia se organiza de forma progresiva. Primero se plantea una pregunta general, luego se entregan pistas mediante artistas y canciones, y finalmente se presenta el gráfico que responde con mayor claridad la pregunta central.
@@ -46,8 +44,6 @@ La estructura definida fue la siguiente:
 
 Esta estructura busca que el lector no reciba la respuesta principal al inicio, sino que la descubra gradualmente.
 
----
-
 ## Diseño de interacción
 
 La interacción de la webstory se pensó como parte del relato. La página no busca ser solo una lectura vertical, sino una experiencia de navegación asociada a la idea de “escuchar” una playlist.
@@ -64,8 +60,6 @@ Para eso se incorporaron elementos como:
 
 Estos elementos ayudan a que el usuario entienda que está avanzando por una historia compuesta por distintas “pistas” narrativas.
 
----
-
 ## Diseño visual
 
 La identidad visual se construyó a partir de una estética inspirada en Spotify. Se utilizaron fondos oscuros, acentos en verde, morado y colores intensos para reforzar la relación con plataformas musicales y rankings digitales.
@@ -79,8 +73,6 @@ La paleta principal considera:
 
 La elección del fondo oscuro permite que los gráficos, textos y elementos interactivos destaquen con mayor fuerza.
 
----
-
 ## Tipografía
 
 La webstory combina dos tipos de tratamiento tipográfico:
@@ -91,8 +83,6 @@ La webstory combina dos tipos de tratamiento tipográfico:
 Los títulos utilizan una tipografía llamativa, con carácter visual cercano a una portada musical o playlist. Esto ayuda a reforzar el tono cultural y musical de la historia.
 
 Los párrafos utilizan una tipografía serif para dar un tono más narrativo y periodístico, permitiendo diferenciar la explicación editorial de los elementos visuales más dinámicos.
-
----
 
 ## Uso de imágenes
 
@@ -108,8 +98,6 @@ Esta imagen funciona como una portada de playlist dentro de la historia. Su prop
 
 Ambas imágenes no se utilizan como decoración, sino como recursos narrativos que ayudan a sostener la metáfora de la playlist.
 
----
-
 ## Relación entre diseño y contenido
 
 El diseño busca que cada elemento visual tenga una función narrativa:
@@ -121,8 +109,6 @@ El diseño busca que cada elemento visual tenga una función narrativa:
 - Las tarjetas por país ayudan a interpretar los resultados de forma más clara.
 
 La disposición de los elementos responde a una lógica periodística: primero se plantea la pregunta, luego se entregan pistas y finalmente se presenta la conclusión.
-
----
 
 ## Redacción y estilo narrativo
 
@@ -139,8 +125,6 @@ Estas decisiones ayudan a mantener coherencia entre el contenido, el diseño y l
 
 El texto busca ser explicativo sin sobrecargar la lectura. Por eso cada sección introduce una idea clara antes de presentar los datos o visualizaciones.
 
----
-
 ## Diseño de información
 
 El diseño de información se centró en ordenar los datos para que fueran comprensibles dentro de la historia.
@@ -152,8 +136,6 @@ Las visualizaciones fueron ubicadas en momentos específicos:
 - **¿De dónde viene la música?** aparece hacia el final para responder la pregunta principal.
 
 Esta decisión evita entregar la conclusión demasiado temprano y permite que el usuario construya la respuesta a medida que avanza.
-
----
 
 ## Experiencia de usuario
 
@@ -168,15 +150,11 @@ La webstory fue pensada para ser fácil de recorrer sin instrucciones adicionale
 
 También se consideró la adaptación a distintos tamaños de pantalla mediante reglas responsive en CSS.
 
----
-
 ## Coherencia con la hipótesis
 
 La hipótesis del proyecto plantea que Latinoamérica comparte tendencias musicales, pero cada país mantiene una identidad sonora propia.
 
 El diseño refuerza esta idea mediante una estructura que mezcla elementos comunes y diferencias locales. La estética general funciona como una playlist regional, mientras que las secciones y visualizaciones muestran cómo cada país participa de forma distinta en esa circulación musical.
-
----
 
 ## Conclusión
 
